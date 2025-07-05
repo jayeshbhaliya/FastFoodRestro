@@ -12,12 +12,12 @@ const Contact = () => {
     {
       icon: <Phone className="h-6 w-6 text-yellow-600" />,
       title: "Phone",
-      content: "(555) 123-4567"
+      content: "99785 59941"
     },
     {
       icon: <Mail className="h-6 w-6 text-yellow-600" />,
       title: "Email",
-      content: "info@kutchiswad.com"
+      content: "kutchiswad@gmail.com"
     },
     {
       icon: <Clock className="h-6 w-6 text-yellow-600" />,

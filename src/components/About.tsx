@@ -46,7 +46,7 @@ const About = () => {
           <div>
             <h3 className="text-3xl font-bold text-gray-900 mb-6">From Streets to Your Plate</h3>
             <p className="text-gray-600 mb-6 leading-relaxed">
-              Founded in 1998 by Chef Ramesh Patel, Kutchi Swad started as a small street food stall and has grown into Ahmedabad's favorite fast food chain. Our recipes combine traditional Kutchi and Gujarati flavors with modern fast food convenience.
+              Founded in 2024, Kutchi Swad started as a small street food stall and has grown into Ahmedabad's favorite fast food chain. Our recipes combine traditional Kutchi and Gujarati flavors with modern fast food convenience.
             </p>
             <p className="text-gray-600 mb-6 leading-relaxed">
               We believe that great food shouldn't take forever. Every item at Kutchi Swad is prepared fresh and served fast, perfect for students, office workers, and families on the go.

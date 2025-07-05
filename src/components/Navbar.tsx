@@ -75,7 +75,7 @@ const Navbar = () => {
               scrolled || !isHomePage ? 'text-gray-700' : 'text-white'
             }`}>
               <Phone className="h-4 w-4" />
-              <span>(555) 123-4567</span>
+              <span>99785 59941</span>
             </div>
           </div>
 
